@@ -1,4 +1,6 @@
 {
-  "version": "3.1.0",
-  "exe": "901Optimizer.exe"
+  "version": "3.2.0",
+  "exe": "901Optimizer.exe",
+  "sha256": "EXE_SHA256_BURAYA",
+  "changelog": "Ultimate updater system, stability & performance improvements"
 }
